@@ -9,8 +9,8 @@
 
     <application
         android:label="alertix_app"
-        android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:name="Alertix App"
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
